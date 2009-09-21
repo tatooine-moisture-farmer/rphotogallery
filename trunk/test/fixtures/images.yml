@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  orignila_dimension: MyString
+  tag: MyText
+  description: MyText
+  album_id: 1
+
+two:
+  name: MyString
+  orignila_dimension: MyString
+  tag: MyText
+  description: MyText
+  album_id: 1
