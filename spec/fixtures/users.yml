@@ -1,0 +1,11 @@
+one:
+  username: MyString
+  password: MyString
+  email: MyString
+  is_admin: false
+
+two:
+  username: MyString
+  password: MyString
+  email: MyString
+  is_admin: false
